@@ -1,0 +1,18 @@
+.completed {
+    text-decoration: line-through;
+    color: #999;
+}
+
+.container {
+    border: 2px solid black;
+}
+
+.resultados{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+li {
+    list-style-type: none;
+}
